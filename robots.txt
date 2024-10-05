@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://auukbe.github.io/DKR/sitemap.DKR.gz
